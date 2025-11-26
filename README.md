@@ -6,7 +6,7 @@
 
 - Self-taught front-end enjoyer who pokes at code until it works
 -	Obsessed with building communities and the systems that keep them alive
--	Back-end? …I can try, but the server might catch fire.
+-	Back-end? …I can try, but the server might catch fire
 -	Hardcore vinyl collector and a guitarist whose skills are vastly underrated — mostly by the universe
 
  ### ⚙️ &nbsp;GitHub Analytics
